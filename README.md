@@ -4,6 +4,10 @@
 
 
 
-                            screenshot of data loading into the dashboard !!!!
+                            screenshot of data loading into the data resources !!!!
 
 ![loading data_1](https://github.com/saikrishna2012/Business-Analytics-with-Qlik/assets/149865763/16be4411-339c-41c2-b1dd-657f54a87f10)
+
+
+
+
